@@ -1,0 +1,12 @@
+node_modules/
+yarn.lock
+diff/
+backup-image/
+capture/
+.env
+cluster.js
+not-check-main.js
+cluster.js
+service.js
+service-bak.js.bak
+main.js
